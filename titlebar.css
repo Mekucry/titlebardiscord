@@ -1,0 +1,23 @@
+.content-98HsJk > :last-child .toolbar-1t6TWx {
+	margin-right: 95px;
+}
+
+.searchBar-3dMhjb {
+	width: 130px;
+}
+
+.iconWrapper-2OrFZ1[aria-label='Help'] {
+	display: none;
+}
+
+.iconWrapper-2OrFZ1[aria-label='Inbox'] {
+	order: 1;
+}
+
+.iconWrapper-2OrFZ1[aria-label*='Member List'] {
+	order: 2;
+}
+
+.search-36MZv- {
+	order: 3;
+}
